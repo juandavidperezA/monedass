@@ -1,0 +1,42 @@
+[
+    {
+        "ID": "6f9ae9b8-0197-4e38-b47c-c764b3bc8c58",
+        "tipo": "diario",
+        "fecha": "2026-03-25",
+        "total": 1000,
+        "cantidad_gastos": 1,
+        "categorias": {
+            "mascota": 1000
+        }
+    },
+    {
+        "ID": "0b9daf1e-d5d7-4940-b2c4-7ca0498270a7",
+        "tipo": "diario",
+        "fecha": "2026-03-25",
+        "total": 1000,
+        "cantidad_gastos": 1,
+        "categorias": {
+            "mascota": 1000
+        }
+    },
+    {
+        "ID": "1e544f1b-4bf4-4019-aa61-14ef12d11332",
+        "tipo": "diario",
+        "fecha": "2026-03-23",
+        "total": 2000,
+        "cantidad_gastos": 2,
+        "categorias": {
+            "entretenimiento": 2000
+        }
+    },
+    {
+        "ID": 1,
+        "tipo": "diario",
+        "fecha": "2026-03-25",
+        "total": 1000,
+        "cantidad_gastos": 1,
+        "categorias": {
+            "mascota": 1000
+        }
+    }
+]

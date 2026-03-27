@@ -1,0 +1,32 @@
+[
+    {
+        "cantidad": 1000,
+        "categoria": "entretenimiento",
+        "descripcion": "",
+        "fecha": "2026-03-23"
+    },
+    {
+        "cantidad": 1000,
+        "categoria": "entretenimiento",
+        "descripcion": "hola",
+        "fecha": "2026-03-23"
+    },
+    {
+        "cantidad": 1000,
+        "categoria": "mascota",
+        "descripcion": "jjjj",
+        "fecha": "2026-03-24"
+    },
+    {
+        "cantidad": 1000,
+        "categoria": "mascota",
+        "descripcion": "",
+        "fecha": "2026-03-25"
+    },
+    {
+        "cantidad": 10000,
+        "categoria": "entretenimiento",
+        "descripcion": "",
+        "fecha": "2026-03-26"
+    }
+]

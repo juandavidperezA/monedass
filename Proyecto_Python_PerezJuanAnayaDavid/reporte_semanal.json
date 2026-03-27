@@ -1,0 +1,10 @@
+{
+    "tipo": "semanal",
+    "inicio": "2026-03-18",
+    "final": "2026-03-24",
+    "total": 2000,
+    "cantidad_gastos": 2,
+    "categorias": {
+        "entretenimiento": 2000
+    }
+}
